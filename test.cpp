@@ -2,6 +2,6 @@
 using namespace std;
 
 int main(void){
-	cout << "This is v1" << endl;
+	cout << "This is v2" << endl;
 	return 0;
 }
